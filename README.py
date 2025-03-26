@@ -2,7 +2,7 @@ import smtplib
 
 
 sender_mail = "miholiayashmini@gmail.com"
-sender_passwd = "jzwuowbqqdwxrfnk "
+sender_passwd = "jzwuowbqxrfnk "
 recevier_mail = "ymiholia@gmail.com"
 subject = "hello paji how are you"
 
